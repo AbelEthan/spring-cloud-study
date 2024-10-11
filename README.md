@@ -1,4 +1,4 @@
-## Java 微服务实践 - [Spring Cloud 系列笔记](https://github.com/AbelEthan/spring-cloud)
+## Java 微服务实践 - [Spring Cloud 系列笔记](https://github.com/AbelEthan/spring-cloud-study)
 
 Spring Cloud 为开发人员提供快速构建分布式系统的一些通用模式，其中包括：配置管理、服务发现、服务短路、智能路由、微型网关、控制总线、一次性令牌、全局锁、领导选举、分布式会话和集群状态。分布式系统间的协调导向样板模式，并且使用 Spring Cloud 的开发人员能够快速地构建实现这些模式的服务和应用。这些服务和应用也将在任何环境下工作良好，无论是开发者的笔记本、还是数据中心裸机或者管控平台。
 
